@@ -34,5 +34,22 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
     - DaaS -> o usuário acessa um computador virtual hospedado na nuvem, podendo trabalhar remotamente de qualquer dispositivo.
       - Azure Virtual Desktop
         - você aluga um escritório totalmente equipado pode entrar de qualquer lugar e começar a trabalhar.
+
+          <h2>
+            
+            IaaS → infraestrutura
+              
+            PaaS → plataforma
+            
+            CaaS → containers
+            
+            DBaaS → banco
+            
+            SECaaS → segurança
+            
+            SaaS → software
+            
+            DaaS → desktop
+          </h2>
         
   - <b>Sistema</b>: conjunto de elementos que interagem entre si em prol de solucionar ou fazer funcionar um esquema.
