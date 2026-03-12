@@ -10,15 +10,15 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
       - Heroku/Microsoft Azure App Service.
         - Basicamente ele te dá uma cozinha pronta e você que faria os pratos, os servidores estão prontos para o seu desenvolvimento.
         
-    - CasS -> a nuvem gerencia containers e clusters, facilitando a execução de aplicações em ambientes isolados e escaláveis.
+    - CaaS -> a nuvem gerencia containers e clusters, facilitando a execução de aplicações em ambientes isolados e escaláveis.
       - Docker
         - Você recebe vários contêineres padronizados para transportar mercadorias.
         
-    - SasS -> Software pronto para uso via internet, utilizando navegador/aplicativo.
+    - SaaS -> Software pronto para uso via internet, utilizando navegador/aplicativo.
       - Netflix
         - Vai no restaurante e só pede a comida pronta.
         
-    - IasS -> O provedor fornece apenas a infraestrutura virtual (servidores, rede e armazenamento).
+    - IaaS -> O provedor fornece apenas a infraestrutura virtual (servidores, rede e armazenamento).
     O usuário precisa configurar sistema operacional, aplicações e ambiente.
       - Amazon EC2
         - Na prática, você aluga máquinas virtuais/Estruturas de um datacenter físico na nuvem.
