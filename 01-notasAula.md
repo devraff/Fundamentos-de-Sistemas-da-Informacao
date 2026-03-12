@@ -5,6 +5,13 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
   - Tarefa avaliativa:
     - Pesquisar, escrever e dar exemplos dos diferentes tipos de Sistemas da Informação:
       - O resultado da pesquisa deve ser colocado no glossario.md
+  - Entregar até 19/03/26 20:00
+  Extra:
+  - Que tipo de sistemas da informação são utilizados nesses sistemas?
+    gov.br;
+    Netflix;
+    Minha Agenda UFN;
+    Sistema de Imposto de Renda do Governo Brasileiro;
 
 ## Aula 4 
   - Computação ou processamento/
