@@ -1,6 +1,11 @@
 # Notas de aula da disciplina 
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Tarefa P/aula 5
+  - Tarefa avaliativa:
+    - Pesquisar, escrever e dar exemplos dos diferentes tipos de Sistemas da Informação:
+      - O resultado da pesquisa deve ser colocado no glossario.md
+
 ## Aula 4 
   - Computação ou processamento/
   - Desktop
