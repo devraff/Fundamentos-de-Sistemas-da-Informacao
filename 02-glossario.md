@@ -4,6 +4,67 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+## Tarefa 19/03/2026
+  TPS (Transaction Processing System) -> Sistema responsável por registrar e processar transações rotineiras do dia a dia de uma organização.
+
+Exemplos:
+
+Amazon → no processamento de pedidos e pagamentos quando um cliente compra um produto.
+
+McDonald's → no sistema de caixa (POS) que registra cada pedido feito no restaurante.
+
+PayPal → no registro de transferências e pagamentos online entre usuários.
+
+Basicamente: Ele registra todas as operações da empresa, como vendas, pagamentos e movimentações.
+
+MIS (Management Information System) -> Sistema que transforma dados operacionais em relatórios e informações úteis para gestores acompanharem o desempenho da empresa.
+
+Exemplos:
+
+Google → em relatórios internos de desempenho de produtos e serviços usados por gestores.
+
+Microsoft Power BI → em painéis de análise de vendas e desempenho empresarial.
+
+Shopify → no dashboard de vendas e relatórios de desempenho das lojas online.
+
+Basicamente: Ele pega os dados gerados pelos sistemas operacionais e organiza em relatórios para ajudar na gestão.
+
+DSS (Decision Support System) -> Sistema que ajuda na tomada de decisões mais complexas através da análise de dados e simulações.
+
+Exemplos:
+
+Netflix → no algoritmo de recomendação de filmes e séries, que analisa comportamento dos usuários.
+
+Uber → no sistema que calcula preços dinâmicos e demanda de corridas.
+
+Amazon → na análise de demanda para decidir quais produtos estocar ou recomendar.
+
+Basicamente: Ele analisa dados e apresenta cenários para ajudar gestores a escolher a melhor decisão.
+
+EIS (Executive Information System) -> Sistema voltado para executivos, que apresenta informações estratégicas da empresa de forma resumida e visual.
+
+Exemplos:
+
+Tesla → em dashboards estratégicos usados pela diretoria para acompanhar produção e vendas.
+
+Tableau → em painéis executivos com indicadores de desempenho da empresa.
+
+Meta → em painéis internos que mostram métricas de crescimento e uso das plataformas.
+
+Basicamente: Ele mostra um resumo geral da empresa para ajudar executivos a acompanhar a situação do negócio rapidamente.
+
+ERP (Enterprise Resource Planning) -> Sistema integrado que conecta diferentes setores da empresa em uma única plataforma.
+
+Exemplos:
+
+SAP ERP → usado por empresas para integrar finanças, estoque, produção e recursos humanos.
+
+Oracle NetSuite → utilizado para gestão financeira, inventário e operações empresariais.
+
+Coca-Cola → usa sistemas ERP para gerenciar produção, distribuição e logística global.
+
+Basicamente: Ele centraliza todas as informações da empresa em um único sistema para melhorar a organização e eficiência.
+
 ## Palavras ou expressões
   - <b>Modelos de serviços em nuvem(XaaS): são categorias que definem como os recursos de computação (infraestrutura, plataformas ou softwares) são fornecidos e gerenciados através da nuvem.</b>:
     - PaaS -> Plataforma em nuvem que fornece ambiente completo para desenvolvimento, teste e deploy de aplicações, sem precisar gerenciar servidores ou infraestrutura.
