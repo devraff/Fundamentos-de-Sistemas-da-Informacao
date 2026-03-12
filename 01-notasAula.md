@@ -22,7 +22,7 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
   - Modelos Arquiteturais de serviços.
     - IaaS
     - PaaS
-    - Saas
+    - SaaS
 
 ## Aula 3
   - Apresentação da Oficina de Git - https://github.com/alexandrezamberlan/oficinaGit
