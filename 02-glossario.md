@@ -5,45 +5,45 @@
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
 ## Tarefa 19/03/2026
-– <b>TPS (Transaction Processing System): Sistema responsável por registrar e processar transações rotineiras do dia a dia de uma organização.</b>:
-    – Exemplos:
-        – Amazon → processamento de pedidos e pagamentos quando um cliente compra um produto.
-        – McDonald's → sistema de caixa (POS) que registra cada pedido feito no restaurante.
-        – PayPal → registro de transferências e pagamentos online entre usuários.
-    – Basicamente:
-        – Ele registra todas as operações da empresa, como vendas, pagamentos e movimentações.
+- <b>TPS (Transaction Processing System): Sistema responsável por registrar e processar transações rotineiras do dia a dia de uma organização.</b>:
+    - Exemplos:
+      - Amazon → processamento de pedidos e pagamentos quando um cliente compra um produto.
+      - McDonald's → sistema de caixa (POS) que registra cada pedido feito no restaurante.
+      - PayPal → registro de transferências e pagamentos online entre usuários.
+    - Basicamente:
+      - Ele registra todas as operações da empresa, como vendas, pagamentos e movimentações.
 
-– <b>MIS (Management Information System): Sistema que transforma dados operacionais em relatórios e informações úteis para gestores acompanharem o desempenho da empresa.</b>:
-    – Exemplos:
-        – Google → relatórios internos de desempenho de produtos e serviços.
-        – Microsoft Power BI → painéis de análise de vendas e desempenho empresarial.
-        – Shopify → dashboard de vendas e relatórios de desempenho das lojas online.
-    – Basicamente:
-        – Ele pega os dados gerados pelos sistemas operacionais e organiza em relatórios para ajudar na gestão.
+- <b>MIS (Management Information System): Sistema que transforma dados operacionais em relatórios e informações úteis para gestores acompanharem o desempenho da empresa.</b>:
+    - Exemplos:
+      - Google → relatórios internos de desempenho de produtos e serviços.
+      - Microsoft Power BI → painéis de análise de vendas e desempenho empresarial.
+      - Shopify → dashboard de vendas e relatórios de desempenho das lojas online.
+    - Basicamente:
+      -  Ele pega os dados gerados pelos sistemas operacionais e organiza em relatórios para ajudar na gestão.
 
-– <b>DSS (Decision Support System): Sistema que ajuda na tomada de decisões mais complexas através da análise de dados e simulações.</b>:
-    – Exemplos:
-        – Netflix → algoritmo de recomendação baseado no comportamento dos usuários.
-        – Uber → sistema que calcula preços dinâmicos e demanda.
-        – Amazon → análise de demanda para decidir estoque e recomendações.
-    – Basicamente:
-        – Ele analisa dados e apresenta cenários para ajudar gestores a escolher a melhor decisão.
+- <b>DSS (Decision Support System): Sistema que ajuda na tomada de decisões mais complexas através da análise de dados e simulações.</b>:
+  - Exemplos:
+    - Netflix → algoritmo de recomendação baseado no comportamento dos usuários.
+    - Uber → sistema que calcula preços dinâmicos e demanda.
+    - Amazon → análise de demanda para decidir estoque e recomendações.
+  - Basicamente:
+    - Ele analisa dados e apresenta cenários para ajudar gestores a escolher a melhor decisão.
 
-– <b>EIS (Executive Information System): Sistema voltado para executivos, que apresenta informações estratégicas de forma resumida e visual.</b>:
-    – Exemplos:
-        – Tesla → dashboards estratégicos para acompanhar produção e vendas.
-        – Tableau → painéis executivos com indicadores de desempenho.
-        – Meta → painéis internos com métricas de crescimento e uso.
-    – Basicamente:
-        – Ele mostra um resumo geral da empresa para ajudar executivos a acompanhar a situação rapidamente.
+- <b>EIS (Executive Information System): Sistema voltado para executivos, que apresenta informações estratégicas de forma resumida e visual.</b>:
+    - Exemplos:
+      - Tesla → dashboards estratégicos para acompanhar produção e vendas.
+      - Tableau → painéis executivos com indicadores de desempenho.
+      - Meta → painéis internos com métricas de crescimento e uso.
+    - Basicamente:
+      - Ele mostra um resumo geral da empresa para ajudar executivos a acompanhar a situação rapidamente.
 
-– <b>ERP (Enterprise Resource Planning): Sistema integrado que conecta diferentes setores da empresa em uma única plataforma.</b>:
-    – Exemplos:
-        – SAP ERP → integração de finanças, estoque, produção e RH.
-        – Oracle NetSuite → gestão financeira, inventário e operações.
-        – Coca-Cola → gerenciamento de produção, distribuição e logística global.
-    – Basicamente:
-        – Ele centraliza todas as informações da empresa em um único sistema para melhorar organização e eficiência.
+- <b>ERP (Enterprise Resource Planning): Sistema integrado que conecta diferentes setores da empresa em uma única plataforma.</b>:
+    - Exemplos:
+      - SAP ERP → integração de finanças, estoque, produção e RH.
+      - Oracle NetSuite → gestão financeira, inventário e operações.
+      - Coca-Cola → gerenciamento de produção, distribuição e logística global.
+    - Basicamente:
+      - Ele centraliza todas as informações da empresa em um único sistema para melhorar organização e eficiência.
 
 ## Palavras ou expressões
   - <b>Modelos de serviços em nuvem(XaaS): são categorias que definem como os recursos de computação (infraestrutura, plataformas ou softwares) são fornecidos e gerenciados através da nuvem.</b>:
