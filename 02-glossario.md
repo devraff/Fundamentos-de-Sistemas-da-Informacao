@@ -45,6 +45,46 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
     - Basicamente:
       - Ele centraliza todas as informações da empresa em um único sistema para melhorar organização e eficiência.
 
+      Extras:
+- <b>gov.br
+
+  - Tipo: Sistema de Informação Transacional (TPS) + Sistema Integrado / e-Gov
+
+    - Processa operações do dia a dia (login, emissão de documentos, solicitações)
+
+    - Integra vários órgãos públicos (INSS, Receita, etc.)
+
+    -Também tem características de Sistema de Informação Gerencial (SIG) para controle governamental
+    
+- <b> Netflix
+  - Tipo: Sistema de Informação Estratégico (SIE) + Business Intelligence (BI) + Recomendação
+
+    - Usa algoritmos de recomendação (baseados em dados do usuário)
+
+    - Analisa comportamento → Big Data + Analytics
+
+    - Apoia decisões estratégicas (o que produzir, sugerir, investir)
+
+- <b> Minha Agenda UFN
+
+  - Tipo: Sistema de Informação Gerencial (SIG) + Sistema Transacional (TPS)
+
+    - Controla dados acadêmicos (notas, horários, disciplinas)
+
+    - Realiza operações rotineiras (matrícula, consulta)
+
+    - Gera relatórios para alunos e administração
+
+- <b>Programa Gerador da Declaração do Imposto de Renda
+
+  - Tipo: Sistema de Informação Transacional (TPS) + Sistema Especialista (em parte)
+
+    - Processa envio de declarações (transações)
+
+    - Aplica regras fiscais automaticamente (cálculos, validações)
+
+    - Tem lógica semelhante a sistemas especialistas (regras tributárias)
+
 ## Palavras ou expressões
   - <b>Modelos de serviços em nuvem(XaaS): são categorias que definem como os recursos de computação (infraestrutura, plataformas ou softwares) são fornecidos e gerenciados através da nuvem.</b>:
     - PaaS -> Plataforma em nuvem que fornece ambiente completo para desenvolvimento, teste e deploy de aplicações, sem precisar gerenciar servidores ou infraestrutura.
