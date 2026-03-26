@@ -4,6 +4,12 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+- <b>CRUD, Manipulação de dados geralmente pelo lado do admnistrador.
+C>REATE
+R>ETRIEVE
+U>PDATE
+D>ELETE
+
 ## Tarefa 19/03/2026
 - <b>TPS (Transaction Processing System): Sistema responsável por registrar e processar transações rotineiras do dia a dia de uma organização.</b>:
     - Exemplos:
