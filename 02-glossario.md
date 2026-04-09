@@ -27,35 +27,7 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
     - Casas totalmente automatizadas → controle remoto de todos os dispositivos.
   - Basicamente:
     - A tecnologia está presente em todo lugar e pode ser acessada a qualquer hora.
-  - <b>Sensores: Dispositivos responsáveis por captar informações do ambiente.</b>:
-    - Exemplos:
-      - Sensor de temperatura → mede calor ou frio.
-      - Sensor de movimento → detecta presença de pessoas.
-      - Sensor de luz → ajusta iluminação automaticamente.
-  - Basicamente:
-    - Coletam dados do ambiente para os sistemas utilizarem.
-    
-- <b>Atuadores: Componentes que executam ações com base nos dados recebidos.</b>:
-  - Exemplos:
-    - Lâmpadas inteligentes → ligam ou desligam automaticamente.
-    - Portas automáticas → abrem ao detectar movimento.
-  - Basicamente:
-    - Transformam dados em ações no mundo físico.
-- <b>Automação: Uso de tecnologia para realizar tarefas com pouca ou nenhuma intervenção humana.</b>:
-  - Exemplos:
-    - Casas inteligentes → controle automático de dispositivos.
-    - Indústrias → máquinas que operam sozinhas.
-    - Cidades inteligentes → semáforos automatizados.
-  - Basicamente:
-  - Sistemas executam tarefas automaticamente para facilitar processos.
-  - <b>Conectividade: Capacidade dos dispositivos de se comunicarem por meio de redes.</b>:
-    - Exemplos:
-      - Wi-Fi → conexão entre dispositivos domésticos.
-      - Bluetooth → comunicação entre dispositivos próximos.
-      - Internet → integração global de sistemas.
-    - Basicamente:
-      - Permite que dispositivos troquem informações entre si.
-
+    - 
 ## 26/03/26
 
 - <b>CRUD, Manipulação de dados geralmente pelo lado do admnistrador.
