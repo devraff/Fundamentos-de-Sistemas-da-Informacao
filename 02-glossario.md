@@ -26,8 +26,7 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
     - Sincronização entre dispositivos → começar no celular e continuar no notebook.
     - Casas totalmente automatizadas → controle remoto de todos os dispositivos.
   - Basicamente:
-
-  <h2>A tecnologia está presente em todo lugar e pode ser acessada a qualquer hora.</h2>
+    - A tecnologia está presente em todo lugar e pode ser acessada a qualquer hora.
   - <b>Sensores: Dispositivos responsáveis por captar informações do ambiente.</b>:
     - Exemplos:
       - Sensor de temperatura → mede calor ou frio.
