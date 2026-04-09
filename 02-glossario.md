@@ -22,7 +22,7 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
     - A tecnologia está espalhada pelo ambiente, auxiliando o usuário sem que ele perceba.
     
 - <b>Sistemas Ubíquos: Sistemas em que a computação está disponível a qualquer momento e em qualquer lugar, de forma transparente.</b>:
-  - exemplos:
+  - Exemplos:
     - Sincronização entre dispositivos → começar no celular e continuar no notebook.
     - Casas totalmente automatizadas → controle remoto de todos os dispositivos.
   - Basicamente:
