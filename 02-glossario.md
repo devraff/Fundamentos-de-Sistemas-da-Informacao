@@ -27,7 +27,7 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
     - Casas totalmente automatizadas → controle remoto de todos os dispositivos.
   - Basicamente:
     - A tecnologia está presente em todo lugar e pode ser acessada a qualquer hora.
-    - 
+  
 ## 26/03/26
 
 - <b>CRUD, Manipulação de dados geralmente pelo lado do admnistrador.
