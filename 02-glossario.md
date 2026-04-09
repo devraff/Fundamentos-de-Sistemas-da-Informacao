@@ -4,6 +4,61 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+## Tarefa 09/04/2026
+
+- <b>Internet das Coisas (IoT): Conexão de objetos físicos à internet, permitindo que coletem, compartilhem e processem dados automaticamente.</b>:
+  - Exemplos:
+    - Casas inteligentes → controle de iluminação, temperatura e segurança.
+    - Sensores urbanos → monitoramento de trânsito e qualidade do ar.
+    - Dispositivos vestíveis → smartwatches que acompanham saúde e atividades.
+  - Basicamente:
+    - Objetos do dia a dia se conectam à internet para automatizar tarefas e gerar dados úteis.
+    
+- <b>Sistemas Pervasivos: Sistemas computacionais distribuídos no ambiente que funcionam de forma integrada e quase invisível ao usuário.</b>:
+  - Exemplos:
+    - Sensores de presença → acendem luzes automaticamente.
+    - Ambientes inteligentes → controle automático de temperatura e iluminação.
+  - Basicamente:
+    - A tecnologia está espalhada pelo ambiente, auxiliando o usuário sem que ele perceba.
+    
+- <b>Sistemas Ubíquos: Sistemas em que a computação está disponível a qualquer momento e em qualquer lugar, de forma transparente.</b>:
+  - exemplos:
+    - Sincronização entre dispositivos → começar no celular e continuar no notebook.
+    - Casas totalmente automatizadas → controle remoto de todos os dispositivos.
+  - Basicamente:
+
+  <h2>A tecnologia está presente em todo lugar e pode ser acessada a qualquer hora.</h2>
+  - <b>Sensores: Dispositivos responsáveis por captar informações do ambiente.</b>:
+    - Exemplos:
+      - Sensor de temperatura → mede calor ou frio.
+      - Sensor de movimento → detecta presença de pessoas.
+      - Sensor de luz → ajusta iluminação automaticamente.
+  - Basicamente:
+    - Coletam dados do ambiente para os sistemas utilizarem.
+    
+- <b>Atuadores: Componentes que executam ações com base nos dados recebidos.</b>:
+  - Exemplos:
+    - Lâmpadas inteligentes → ligam ou desligam automaticamente.
+    - Portas automáticas → abrem ao detectar movimento.
+  - Basicamente:
+    - Transformam dados em ações no mundo físico.
+- <b>Automação: Uso de tecnologia para realizar tarefas com pouca ou nenhuma intervenção humana.</b>:
+  - Exemplos:
+    - Casas inteligentes → controle automático de dispositivos.
+    - Indústrias → máquinas que operam sozinhas.
+    - Cidades inteligentes → semáforos automatizados.
+  - Basicamente:
+  - Sistemas executam tarefas automaticamente para facilitar processos.
+  - <b>Conectividade: Capacidade dos dispositivos de se comunicarem por meio de redes.</b>:
+    - Exemplos:
+      - Wi-Fi → conexão entre dispositivos domésticos.
+      - Bluetooth → comunicação entre dispositivos próximos.
+      - Internet → integração global de sistemas.
+    - Basicamente:
+      - Permite que dispositivos troquem informações entre si.
+
+## 26/03/26
+
 - <b>CRUD, Manipulação de dados geralmente pelo lado do admnistrador.
 C>REATE
 R>ETRIEVE
