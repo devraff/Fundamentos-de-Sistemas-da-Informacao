@@ -2,8 +2,9 @@
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
 ## Aula 7
-  - Internet das Coisas
+  - Internet das Coisas: todo lugar, todo momento e conectada.
     - Sistemas Pervasivos versus Sistemas Ubíquos.
+      - Destaque: Automação e conectividade inteligente.
 
 ## Tarefa P/aula 5
   - Tarefa avaliativa:
