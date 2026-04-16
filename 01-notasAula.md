@@ -1,6 +1,10 @@
 # Notas de aula da disciplina 
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 7
+  - Internet das Coisas
+    - Sistemas Pervasivos versus Sistemas Ubíquos.
+
 ## Tarefa P/aula 5
   - Tarefa avaliativa:
     - Pesquisar, escrever e dar exemplos dos diferentes tipos de Sistemas da Informação:
