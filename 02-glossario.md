@@ -4,6 +4,31 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+- <b> Conjunto de protocolos que estrutura a internet, com suas camadas que garantem o envio, recebimento
+e roteamento de pacotes de dados entre dispositivos.
+	- Aplicação:
+		- Onde ficam os de alto nível, HTTP/S(WEB), FTP(ARQUIVOS) e SMTP(e-mail).
+	- Transporte:
+		- Comunicação entre os dispositivos e controle desse fluxo, UDP(rápido) TCP(seguro).
+	- Internet:
+		- Gerencia o roteamento e endereço lógico dos pacotes via IP(Internet Protocol).
+	- Acesso à rede:
+		- O meio físico nos quais esses dados vão ser transmitidos(Ethernet, Wifi, Bluetooth...).
+
+- <b> Fragilidades:
+	- Transmissão em Texto Claro: Muitos protocolos nativos (como FTP, Telnet) transmitem informações, incluindo senhas, sem criptografia, permitindo a interceptação de dados (sniffing).
+
+	- Complexidade de Configuração: A flexibilidade do TCP/IP pode resultar em configurações complexas e propenso a erros humanos, o que aumenta a superfície de ataque.
+
+	- Falta de Autenticação Nativa: O modelo IP original não verifica a identidade de quem envia o pacote.	
+
+- <b>Como mitiga-las:
+	- Criptografia na comunicação através de protocolos de segurança como HTTPS.
+
+	- VPNs sendo utilizados como "Túneis" para as mensagens transmitidas.
+
+	- Firewalls e IPS: Sistemas de detecção de intrusão ajudam a filtrar ataques conhecidos na camada de rede.
+
 ## Tarefa 09/04/2026
 
 - <b>Internet das Coisas (IoT): Conexão de objetos físicos à internet, permitindo que coletem, compartilhem e processem dados automaticamente.</b>:
