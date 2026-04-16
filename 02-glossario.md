@@ -4,6 +4,8 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+## MODELO TCP/IP
+
 - <b> Conjunto de protocolos que estrutura a internet, com suas camadas que garantem o envio, recebimento
 e roteamento de pacotes de dados entre dispositivos.
 	- Aplicação:
