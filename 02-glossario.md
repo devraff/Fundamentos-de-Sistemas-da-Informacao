@@ -11,7 +11,7 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
 - <b> Metodologias são conjuntos de Técnicas visando a melhor produtividade e eficiência do resultado final (produto).
 	- Kanban auxiliando na organização da produção do código.
 	- Scrum utilizando sprints para agilizar e enfatizar uma tarefa.
-- <b> Sim, é possivel vincular o Github com a utilização do Trello, na aba PowerUps no quadro, ele pode ser adicionado e configurado para vincular atualizações constantes do código.
+- <b> Sim, é possivel vincular o Github com a utilização do Trello, na aba PowerUps no quadro, ele pode ser adicionado e configurado para vincular cartões a repositórios, além de atualizações constantes do código.
 
 ## MODELO TCP/IP
 
