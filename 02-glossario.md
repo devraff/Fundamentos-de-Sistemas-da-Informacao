@@ -4,6 +4,15 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+## Tarefa 23/04/26
+- <b> Técnicas são utilizadas em ambiente de desenvolvimento para acelerar/melhorar o processo da tarefa em específico, visando tornar o processo melhor.
+	- Manutenção do código.
+	- Padronizar tags.
+- <b> Metodologias são conjuntos de Técnicas visando a melhor produtividade e eficiência do resultado final (produto).
+	- Kanban auxiliando na organização da produção do código.
+	- Scrum utilizando sprints para agilizar e enfatizar uma tarefa.
+- <b> Sim, é possivel vincular o Github com a utilização do Trello, na aba PowerUps no quadro, ele pode ser adicionado e configurado para vincular atualizações constantes do código.
+
 ## MODELO TCP/IP
 
 - <b> Conjunto de protocolos que estrutura a internet, com suas camadas que garantem o envio, recebimento
