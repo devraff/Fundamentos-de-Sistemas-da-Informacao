@@ -2,6 +2,24 @@
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
 ## Aula 7
+- Boas práticas de desenvolvimento de software em grupo/equipe
+  - Métodos de organização:
+    - Kanban:
+      - Metodologia de gerenciamento de tarefas
+      - Criado pela Toyota: Com postit
+      - Separado por colunas:
+        - A fazer (to do)
+        - Fazendo (doing)
+        - Feito (Done)
+    - Sistema de versionamento de código:
+      - Controla:
+        - Versões
+        - Backups
+        - Equipes no desenvolvimento coletivo...
+    - Atividade: Pesquisar e colocar no Glossário pessoal:
+      - Conceitos de técnica vs metodologia.
+      - Como integrar Trello com Github.
+## Aula 6
   - Internet das Coisas: todo lugar, todo momento e conectada.
     - Sistemas Pervasivos versus Sistemas Ubíquos.
       - Destaque: Automação e conectividade inteligente.
