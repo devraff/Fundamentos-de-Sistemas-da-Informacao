@@ -4,6 +4,13 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+## Tarefa 14/05/26
+- <b> CRM é um sistema que gerencia a relação Cliente-Provedor(loja-estabelecimento) de acordo desde avaliações do serviço até do produto oferecido.
+- Também utilizado para verificação de vendas, desde a localização do pedido até o perfil completo da pessoa que o solicitou.
+- Principalmente como meio de organização e agente de aumento de produtividade.
+- Integrando desde estratégias, inovações e meios focados exclusivamente no gerenciamento do cliente como alvo.
+- Pode ser um serviço terceirezado ou integrado ao próprio sistema da loja.
+
 ## Tarefa 23/04/26
 - <b> Técnicas são utilizadas em ambiente de desenvolvimento para acelerar/melhorar o processo da tarefa em específico, visando tornar o processo melhor.
 	- Manutenção do código.
