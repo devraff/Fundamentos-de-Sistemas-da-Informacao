@@ -1,6 +1,33 @@
 # Notas de aula da disciplina 
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 9
+- IaaS + PaaS
+  - Sistema Web
+    - Computação em nuvem
+    - Arquitetura Cliente-Servidor
+      - Sistema operacional Ubuntu 22.04
+      - SGBD MySQL
+      - Firewall Nativo S.O
+      - Gunicorn
+      - Nginx
+      - Python-Django-Bootstrap
+        - Funcionalidades == Serviços.
+          - Gestões
+  - Exemplo:
+    - Sistema de gestão de pizzaria
+      - Apps -> Crud = Serviços = Funcionalidades
+        - Gestão de usuários
+        - Gestão de insumos
+        - Gestão de fornecedores
+          - Gestão Fornecedores - Insumos
+        - Gestão de Pizza - Insumo
+        - *Gestão do Cliente* - Perfil
+        - *Gestão do Cliente* - Pizza
+        - Sistema de Conhecimento
+
+  - Pesquisar o significado e importância de um CRM:
+
 ## Aula 7
 - Boas práticas de desenvolvimento de software em grupo/equipe
   - Métodos de organização:
