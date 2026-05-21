@@ -1,6 +1,16 @@
 # Notas de aula da disciplina 
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 10
+- Virtualização de máquinas
+  - Máquina física possui:
+    - S.O (Sistema operacional)
+      - M.V:
+        - S.O
+        - Bibliotecas de diferentes versões.
+      - S.U (Software Utilitários (PS, CAPTURA DE TELA...))
+      - S.A (Software Aplicável (Netflix, MinhaUfn, Aplicativos Web.) 
+
 ## Aula 9
 - IaaS + PaaS
   - Sistema Web
