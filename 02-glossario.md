@@ -29,6 +29,12 @@ Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, 
 
 		<img width="732" height="499" alt="{A0ECF10D-B527-45D4-9C13-5BBFC98C9F68}" src="https://github.com/user-attachments/assets/bb4fc237-2296-4187-a7eb-257644b7f649" />
 
+		- docker run	Cria e inicia um container novo baseado em uma imagem.
+		- docker ps	Lista os containers ativos.
+		- docker logs	Mostra o que está acontecendo (logs) dentro do container.
+		- docker exec -it bash	Entra em um container que já está rodando.
+		- docker system prune	Faxina geral! Apaga containers parados e imagens não utilizadas.
+
 
 ## Tarefa 14/05/26
 - <b> CRM é um sistema que gerencia a relação Cliente-Provedor(loja-estabelecimento) desde avaliações do serviço até do produto oferecido.
