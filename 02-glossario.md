@@ -4,6 +4,32 @@
 </div>
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
+## Tarefa 21/05/26
+- Virtualização (Diferenças entre VM, Venv, Docker e suas utilizações.)
+	- <b> Máquina Virtual (VM)
+		- A VM isola tudo, desde o sistema operacional até o hardware. Ela roda um sistema operacional (SO) completo dentro do seu computador real através de um software chamado Hipervisor (como VirtualBox ou VMware).
+		- O que ela isola: O hardware e o sistema operacional inteiro.
+		- Vantagens: Isolamento total e ultra seguro; permite rodar um SO diferente (ex: rodar Windows dentro do Linux).
+  		- Desvantagens: Muito pesada, consome muita RAM, espaço em disco e demora para iniciar.
+		- Quando usar: Quando você precisa de isolamento total de segurança ou precisa testar algo em um sistema operacional completamente diferente do seu.
+
+	- <b> Docker (Contêineres)
+		- O Docker não virtualiza o hardware, ele compartilha o núcleo (kernel) do sistema operacional da sua máquina, mas isola o aplicativo e tudo o que ele precisa para rodar (bibliotecas, configurações, etc.).
+		- O que ele isola: O aplicativo e suas dependências de sistema.
+		- Vantagens: Muito mais leve e rápido que uma VM; garante que o sistema rode exatamente igual no seu computador, no do colega ou no servidor de produção ("na minha máquina funciona" deixa de existir).
+		- Desvantagens: Menos isolado que uma VM (se o kernel do hospedeiro falhar, pode afetar os contêineres).
+		- Quando usar: Para empacotar e distribuir aplicações modernas, microsserviços, e garantir que o ambiente de desenvolvimento seja idêntico ao de produção.
+
+	- <b> Venv (Ambiente Virtual do Python)
+		- O venv (ou ferramentas similares em outras linguagens, como o node_modules do Node.js) é o nível mais simples. Ele não mexe com sistema operacional nem com hardware; ele apenas isola as bibliotecas da linguagem de programação.
+		- O que ele isola: Apenas os pacotes e versões de uma linguagem específica (ex: Python).
+		- Vantagens: Extremamente leve (são apenas pastas no seu computador), rápido e consome quase zero de memória.
+		- Desvantagens: Não isola ferramentas do sistema operacional. Se o seu código precisar de um banco de dados instalado na máquina, o venv não vai resolver.
+		- Quando usar: No dia a dia do desenvolvimento para não bagunçar as versões das bibliotecas dos seus projetos (ex: Projeto A usa a biblioteca X na versão 1.0, Projeto B usa a versão 2.0).
+
+		<img width="732" height="499" alt="{A0ECF10D-B527-45D4-9C13-5BBFC98C9F68}" src="https://github.com/user-attachments/assets/bb4fc237-2296-4187-a7eb-257644b7f649" />
+
+
 ## Tarefa 14/05/26
 - <b> CRM é um sistema que gerencia a relação Cliente-Provedor(loja-estabelecimento) desde avaliações do serviço até do produto oferecido.
 - Também utilizado para verificação de vendas, desde a localização do pedido até o perfil completo da pessoa que o solicitou.
