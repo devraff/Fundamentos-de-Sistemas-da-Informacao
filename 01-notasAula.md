@@ -1,6 +1,36 @@
 # Notas de aula da disciplina 
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 11
+# LGPD - Lei Geral de Proteção de Dados Pessoais
+
+A LGPD (Lei numero 13.709/2018) regula como empresas e orgaos publicos coletam, armazenam e compartilham informacoes, garantindo aos cidadaos o controle sobre seus proprios dados.
+
+---
+
+### Classificacao dos Dados
+
+<b>Dados Comuns:</b> Informacoes que identificam a pessoa, como Nome, CPF, e-mail, telefone e endereco.
+<br>
+<b>Dados Sensiveis:</b> Dados sobre saude, religiao, orientacao sexual, biometria e genetica.
+
+---
+
+### Direitos do Cidadao
+
+* <b>Confirmar e Acessar:</b> Saber se a empresa possui seus dados e pedir uma copia.
+* <b>Corrigir e Excluir:</b> Solicitar a correcao de erros ou a exclusao de informacoes desnecessarias.
+* <b>Revogar o Consentimento:</b> Cancelar a autorizacao do uso de dados a qualquer momento.
+
+---
+
+### Aplicacoes Praticas
+
+* <b>Transparencia:</b> Exigencia de consentimento expresso em sites e aplicativos.
+* <b>Fim da Venda de Cadastros:</b> Proibicao de compartilhar listas de contatos sem autorizacao.
+* <b>Armazenamento Seguro:</b> Obrigatoriedade de proteger os dados contra vazamentos.
+* <b>Penalidades:</b> Multas que podem chegar a 2% do faturamento da empresa.
+
 ## Aula 10
 - Virtualização de máquinas
   - Máquina física possui:
