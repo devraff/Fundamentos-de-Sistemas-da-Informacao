@@ -5,7 +5,39 @@
 Neste arquivo são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas.
 
 ## Tarefa 11/06/26
+### O que é Governança de TI (COBIT/ITIL)?
 
+<b>Governança de TI</b> é o conjunto de práticas, processos e diretrizes que garantem que a tecnologia esteja alinhada aos objetivos do negócio, promovendo controle, transparência, segurança e geração de valor.
+
+<b>COBIT</b> é um framework focado em governança e gestão de TI, auxiliando organizações a controlar riscos, garantir conformidade e melhorar a tomada de decisões.
+
+<b>ITIL</b> é um conjunto de boas práticas para gerenciamento de serviços de TI, com foco na entrega de valor, qualidade dos serviços e melhoria contínua.
+
+### Princípios da LGPD para Desenvolvedores
+
+<b>Finalidade</b> — Os dados devem ser coletados e utilizados para objetivos específicos e legítimos.
+
+<b>Necessidade</b> — Apenas os dados estritamente necessários devem ser tratados.
+
+<b>Transparência</b> — Os usuários devem ser informados sobre como seus dados são utilizados.
+
+<b>Segurança</b> — Devem ser adotadas medidas técnicas e administrativas para proteger as informações.
+
+<b>Responsabilização</b> — As organizações precisam demonstrar conformidade com a legislação.
+
+### O que é Privacy by Design?
+
+<b>Privacy by Design</b> é uma abordagem que incorpora a proteção de dados desde a concepção de sistemas, aplicações e processos.
+
+Isso significa que requisitos de privacidade e segurança são considerados durante todo o ciclo de desenvolvimento, reduzindo riscos e garantindo maior conformidade com a LGPD.
+
+### O que são Dados Sensíveis?
+
+<b>Dados Sensíveis</b> são informações que podem gerar discriminação ou impactar diretamente a privacidade do titular caso sejam expostas.
+
+Incluem dados sobre origem racial ou étnica, convicção religiosa, opinião política, filiação sindical, informações de saúde, vida sexual, dados genéticos e dados biométricos.
+
+Por apresentarem maior risco ao titular, esses dados exigem níveis mais elevados de proteção e tratamento conforme definido pela LGPD.
 
 ## Tarefa 21/05/26
 - Virtualização (Diferenças entre VM, Venv, Docker e suas utilizações.)
